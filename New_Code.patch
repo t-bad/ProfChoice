@@ -1,0 +1,16 @@
+Index: app/src/main/java/ru/itbad/pc/profchoice/MainActivity.java
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- app/src/main/java/ru/itbad/pc/profchoice/MainActivity.java	(date 1542460954000)
++++ app/src/main/java/ru/itbad/pc/profchoice/MainActivity.java	(date 1542462246506)
+@@ -15,7 +15,7 @@
+ 
+ public class MainActivity extends AppCompatActivity
+         implements NavigationView.OnNavigationItemSelectedListener {
+-
++        // Chtoto
+     @Override
+     protected void onCreate(Bundle savedInstanceState) {
+         super.onCreate(savedInstanceState);
